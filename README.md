@@ -26,6 +26,7 @@ Please enjoy.
 
 ## DSP
 - [Using GitHub's CMSIS-DSP in IAR Embedded Workbench for Arm](https://github.com/IARSystems/IAR-CMSIS-DSP)
+- [Using the CMSIS‐DSP Library in IAR Embedded Workbench for Arm](https://github.com/IARSystems/IAR-CMSIS-DSP/wiki/Using-the-CMSIS%E2%80%90DSP-Library-in-IAR-Embedded-Workbench-for-Arm)
 
 ## Linux
 - [Building and Debugging from Visual Studio Code (Linux)](https://github.com/IARSystems/cmake-tutorial/wiki/Building-and-Debugging-from-Visual-Studio-Code-(Linux))
