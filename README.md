@@ -6,6 +6,9 @@ Please enjoy.
 
 ## CMake
 - [Building CMake projects with IAR](https://github.com/iarsystems/cmake-tutorial)
+- [Building and Debugging from the Embedded Workbench IDE](https://github.com/IARSystems/cmake-tutorial/wiki/Building-and-Debugging-from-the-Embedded-Workbench)
+- [Building and Debugging from Visual Studio Code](https://github.com/IARSystems/cmake-tutorial/wiki/Building-and-Debugging-from-Visual-Studio-Code)
+
 
 ## Continuous Integration (self-hosted)
 - [IAR Build Tools for Arm on GitHub Actions using Linux runners](https://github.com/IARSystems/bx-github-ci)
@@ -24,6 +27,7 @@ Please enjoy.
 - [Using GitHub's CMSIS-DSP in IAR Embedded Workbench for Arm](https://github.com/IARSystems/IAR-CMSIS-DSP)
 
 ## Linux
+- [Building and Debugging from Visual Studio Code (Linux)](https://github.com/IARSystems/cmake-tutorial/wiki/Building-and-Debugging-from-Visual-Studio-Code-(Linux))
 - [IAR + VSCode + CMake on Ubuntu](https://github.com/felipe-iar/iar-vscode-cmake-ubuntu)
 - [IAR + VSCode + CMake on Fedora](https://github.com/felipe-iar/iar-vscode-cmake-fedora)
 
