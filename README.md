@@ -14,6 +14,7 @@ Please enjoy.
 - [IAR Build Tools for Arm on GitHub Actions using Linux runners](https://github.com/IARSystems/bx-github-ci)
 - [IAR Build Tools for Arm on GitLab self-managed Linux runners](https://github.com/IARSystems/bx-github-ci)
 - [IAR Build Tools for Arm in BitBucket using self-hosted runners](https://github.com/IARSystems/bx-bitbucket-ci)
+- [IAR Build Tools with Jenkins](https://github.com/iarsystems/bx-jenkins-ci)
 - [Building Linux Containers with the IAR Build Tools](https://github.com/iarsystems/bx-docker)
 
 ## Debugging
