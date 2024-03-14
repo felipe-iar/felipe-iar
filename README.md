@@ -20,6 +20,9 @@ Please enjoy.
 ## Docker
 - [Building with IAR on Docker Containers](https://github.com/IARSystems/bx-docker)
 
+## DSP
+- [Using GitHub's CMSIS-DSP in IAR Embedded Workbench for Arm](https://github.com/IARSystems/IAR-CMSIS-DSP)
+
 ## Linux
 - [IAR + VSCode + CMake on Ubuntu](https://github.com/felipe-iar/iar-vscode-cmake-ubuntu)
 - [IAR + VSCode + CMake on Fedora](https://github.com/felipe-iar/iar-vscode-cmake-fedora)
@@ -27,7 +30,6 @@ Please enjoy.
 ## IDE
 - [EWPtool](https://github.com/IARSystems/project-migration-tools) - A lightweight utility for populating an IAR Embedded Workbench project.
 - [Integrating TortoiseGit with the IAR Embedded Workbench](https://github.com/felipe-iar/ew-tortoise-integration)
-- 
 
 ## State Machines
 - [Automatic generation of source code for state machines with IAR Visual State](https://github.com/IARSystems/visual-state-demo)
