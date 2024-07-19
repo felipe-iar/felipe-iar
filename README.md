@@ -17,25 +17,33 @@ Please enjoy.
 - [IAR Build Tools with Jenkins](https://github.com/iarsystems/bx-jenkins-ci)
 - [Building Linux Containers with the IAR Build Tools](https://github.com/iarsystems/bx-docker)
 
+
 ## Debugging
 - [IAR C-RUN Evaluation Guide](https://github.com/IARSystems/crun-evaluation-guide)
 - [Getting started with the Target Access plugin for IAR Embedded Workbench](https://github.com/IARSystems/cspy-target-access-demo)
 
+
 ## Docker
 - [Building with IAR on Docker Containers](https://github.com/IARSystems/bx-docker)
+
 
 ## DSP
 - [Using GitHub's CMSIS-DSP in IAR Embedded Workbench for Arm](https://github.com/IARSystems/IAR-CMSIS-DSP)
 - [Using the CMSIS‐DSP Library in IAR Embedded Workbench for Arm](https://github.com/IARSystems/IAR-CMSIS-DSP/wiki/Using-the-CMSIS%E2%80%90DSP-Library-in-IAR-Embedded-Workbench-for-Arm)
+
 
 ## Linux
 - [Building and Debugging from Visual Studio Code (Linux)](https://github.com/IARSystems/cmake-tutorial/wiki/Building-and-Debugging-from-Visual-Studio-Code-(Linux))
 - [IAR + VSCode + CMake on Ubuntu](https://github.com/felipe-iar/iar-vscode-cmake-ubuntu)
 - [IAR + VSCode + CMake on Fedora](https://github.com/felipe-iar/iar-vscode-cmake-fedora)
 
+
 ## IDE
 - [EWPtool](https://github.com/IARSystems/project-migration-tools) - A lightweight utility for populating an IAR Embedded Workbench project.
 - [Integrating TortoiseGit with the IAR Embedded Workbench](https://github.com/felipe-iar/ew-tortoise-integration)
+
+## Renesas RA Smart Configurator
+- [Getting Started with IAR Embedded Workbench for Arm and Renesas RA6M3](https://github.com/felipe-iar/gs-ewarm-ra6m3/)
 
 ## State Machines
 - [Automatic generation of source code for state machines with IAR Visual State](https://github.com/IARSystems/visual-state-demo)
