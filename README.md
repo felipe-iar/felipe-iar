@@ -42,8 +42,8 @@ Please enjoy.
 - [EWPtool](https://github.com/IARSystems/project-migration-tools) - A lightweight utility for populating an IAR Embedded Workbench project.
 - [Integrating TortoiseGit with the IAR Embedded Workbench](https://github.com/felipe-iar/ew-tortoise-integration)
 
-## Renesas RA Smart Configurator
-- [Getting Started with IAR Embedded Workbench for Arm and Renesas RA6M3](https://github.com/felipe-iar/gs-ewarm-ra6m3/blob/master/README.md)
-
 ## State Machines
 - [Automatic generation of source code for state machines with IAR Visual State](https://github.com/IARSystems/visual-state-demo)
+
+## Workflows
+- [Getting Started with IAR Embedded Workbench for Arm and Renesas RA6M3](https://github.com/felipe-iar/gs-ewarm-ra6m3/blob/master/README.md)
